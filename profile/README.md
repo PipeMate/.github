@@ -1,7 +1,8 @@
 ## 🛠️ 프로젝트 소개 및 기술 개요
 
 ### 1. 프로젝트 소개  
-![메인 동작 화면](../gif/make-workflow-x2.gif)
+https://github.com/user-attachments/assets/c916a4a5-f122-4eac-b422-797819ed053c
+
 이 프로젝트는 GitHub Actions 워크플로우를 직관적인 **블록 기반 UI/UX**로 설계·관리할 수 있는 통합 플랫폼입니다.
 사용자는 복잡한 YAML 문법을 몰라도, 드래그&드롭과 설정 패널을 통해 블록을 조립하듯 손쉽게 파이프라인을 구성할 수 있습니다.
 
